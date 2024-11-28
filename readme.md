@@ -1,5 +1,3 @@
-## hello everyone
-
--This line is from devjs branch
+## hello, get
 
 - I'am addding pavan-branch implemented
