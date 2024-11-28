@@ -1,5 +1,3 @@
-## welcome git
-
--this line is coming from devjs-admin
+## hello, get
 
 - I'am addding pavan-branch implemented
